@@ -1,0 +1,43 @@
+{
+    "address": "test",
+    "phone_number": "test",
+    "email": "test",
+    "sales_price": 102,
+    "purchase_type": {
+        "domestic_sales": true,
+        "international_sales": false
+    },
+    "sales_type": {
+        "domestic_sales": true,
+        "international_sales": false
+    },
+    "purchase_price": 101,
+    "material_type": "test",
+    "unit_metric": 11,
+    "quality_details": {
+        "name": "qtest",
+        "logo": "qtest",
+        "art_number": 123,
+        "composition_fibres": "qtest",
+        "composition": "qtest",
+        "count": {
+            "warp": 7,
+            "weft": 8
+        },
+        "density": {
+            "wpi": 6,
+            "cpi": 5
+        },
+        "width": {
+            "value": 200,
+            "unit_of_measurement": "meter"
+        },
+        "weight": {
+            "before_wash": 50,
+            "after_wash": 49
+        },
+        "finish": "qtest",
+        "remarks": "qtest",
+        "qr_code": "qtest"
+    }
+}
